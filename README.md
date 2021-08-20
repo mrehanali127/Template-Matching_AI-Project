@@ -6,6 +6,9 @@ computational model. e.g, In our case, We are finding the location of a small im
 in the bigger image. These images can be any other object or patterns like maps,
 tables, windows, and doors, etc.
 
+## Flow of Model
+![alt text](https://github.com/mrehanali127/Template-Matching_AI-Project/blob/master/flowchart.PNG?raw=true)
+
 ## Computational Model
 The following are the steps that we will follow to solve our template matching problem:<br/>
 1)Representation:<br/> Images are represented in the form of matrices and these matrices are
